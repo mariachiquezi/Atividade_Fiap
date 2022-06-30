@@ -1,0 +1,112 @@
+.body{
+    background-color: antiquewhite;
+}
+
+.nav-nova{
+    border-bottom: 1px solid#dbdbdb;
+    border-top: 0.5px solid#dbddbd;
+    background-color: rgb(243, 204, 211) !important;
+    height: 63px;
+}
+
+.nav-container{
+    padding-left: 25% !important;
+    padding-right: 25% !important;
+}
+.myinsta{
+
+    font-family: 'Satisfy',
+    cursive;
+    font-family: 'Titan One',
+    cursive;
+    color:dimgrey;
+}
+.form-novo{
+   border-color: #ffd9d9;
+    padding: 0% !important;
+    font-size: 15px;
+    background-color: #ffd9d9 !important;
+    text-align: center;
+}
+.icons{
+    font-size: 20px;
+}
+.profile{
+    max-width: 200px;
+    max-height: 150px;
+    border-radius: 100%;
+    
+}
+.button-edit{
+    color: black !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    border-color: dimgray !important;
+}
+.btn{
+    padding: 0.100rem 0.50rem !important;
+    text-decoration: none;
+    border:1px solid#d38e8e;
+    width: 140px;
+    text-align: center;
+    border: #000000 !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffa3c7;
+}
+.dates{
+    font-size: 16px;
+
+}
+.name{
+    font-size: 16px; display: inline; font-weight: 600 !important;
+}
+.username{
+    font-weight: 300; font-size: 28px;
+}
+.space{
+    padding-top: 20px;
+        padding-bottom: 10px
+}
+.img-profile {
+    border-radius: 100%;
+    -o-border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    max-width: 200px;
+    max-height: 150px;
+}
+
+.username {
+    font-weight: 300;
+    font-size: 28px;
+}
+
+.name {
+    font-size: 16px;
+    display: inline;
+    font-weight: 600 !important;
+}
+
+.profile-datas {
+    font-size: 16px;
+}
+
+.profile-desc {
+    font-size: 16px;
+}
+.nav-link-1 {
+    color: #f7bfd4;
+    background-color: #ffdcf7 !important;
+    border-color: gray #fff #fff !important;
+    border-top-right-radius: .0rem !important;
+    border-top-left-radius: .0rem !important;
+    font-size: 12px;
+    font-weight: 600;}
+.btn{
+    background-color: #d38e8e;
+    color:#ffffff;
+    border-color: #808080;
+}
+.boton{
+   color: #8d0036;
+}
